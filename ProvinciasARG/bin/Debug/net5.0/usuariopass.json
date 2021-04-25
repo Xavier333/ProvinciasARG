@@ -1,0 +1,18 @@
+[
+    {
+      "usuario": "Javier",
+      "pass": "azul"
+    },
+    {
+      "usuario": "Juan",
+      "pass": "rojo"
+    },
+    {
+      "usuario": "Gabriel",
+      "pass": "verde"
+    },
+    {
+      "usuario": "Marcelo",
+      "pass": "violeta"
+    }
+]
