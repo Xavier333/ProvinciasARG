@@ -4,3 +4,5 @@ Primero hace un pedido de registro de Usuario y Contraseña, la cual se valida e
 En caso de validar el usuario, el script por medio de la consola pregunta por el nombre de una provincia para luego dar a conocer su ubicación.
 La misma se registra en un archivo "provinciaconsultada.json".
 
+1 - REGISTRO DE USUARIO Y CONTRASEÑA / Usuario: Javier / Contraseña: Azul
+
