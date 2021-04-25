@@ -5,4 +5,41 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net5.0\ProvinciasARG.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net5.0\provinciaconsultada.json" />
+    <Content Include="bin\Debug\net5.0\provincias.json" />
+    <Content Include="bin\Debug\net5.0\ProvinciasARG.deps.json" />
+    <Content Include="bin\Debug\net5.0\ProvinciasARG.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\net5.0\ProvinciasARG.runtimeconfig.json" />
+    <Content Include="bin\Debug\net5.0\usuariopass.json" />
+    <Content Include="obj\Debug\net5.0\ProvinciasARG.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\ProvinciasARG.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net5.0\ProvinciasARG.dll" />
+    <None Include="bin\Debug\net5.0\ProvinciasARG.exe" />
+    <None Include="bin\Debug\net5.0\ProvinciasARG.pdb" />
+    <None Include="bin\Debug\net5.0\ref\ProvinciasARG.dll" />
+    <None Include="obj\Debug\net5.0\apphost.exe" />
+    <None Include="obj\Debug\net5.0\ProvinciasARG.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net5.0\ProvinciasARG.assets.cache" />
+    <None Include="obj\Debug\net5.0\ProvinciasARG.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net5.0\ProvinciasARG.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\net5.0\ProvinciasARG.dll" />
+    <None Include="obj\Debug\net5.0\ProvinciasARG.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net5.0\ProvinciasARG.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net5.0\ProvinciasARG.pdb" />
+    <None Include="obj\Debug\net5.0\ref\ProvinciasARG.dll" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\ProvinciasARG.csproj.nuget.g.props" />
+    <None Include="obj\ProvinciasARG.csproj.nuget.g.targets" />
+  </ItemGroup>
+
 </Project>
